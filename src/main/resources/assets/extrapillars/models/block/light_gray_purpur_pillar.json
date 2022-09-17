@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "extrapillars:block/light_gray_purpur_pillar_top",
+    "side": "extrapillars:block/light_gray_purpur_pillar"
+  }
+}
