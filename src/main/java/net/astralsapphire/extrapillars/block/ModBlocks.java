@@ -16,6 +16,7 @@ import net.minecraft.util.registry.Registry;
 
 public class ModBlocks {
 
+    //Pillars:
     public static final Block WHITE_PURPUR_PILLAR = registerBlock("white_purpur_pillar",
             new PillarBlock(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()));
 
@@ -63,6 +64,15 @@ public class ModBlocks {
 
     public static final Block BLACK_PURPUR_PILLAR = registerBlock("black_purpur_pillar",
             new PillarBlock(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()));
+
+
+    //Standard Blocks:
+
+    public static final Block TEST_BLOCK = registerBlock("test_block",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()));
+
+
+
 
     private static Block registerBlock(String name, Block block){
         registerBlockItem(name, block);

@@ -59,6 +59,7 @@
     "extrapillars:brown_purpur_pillar",
     "extrapillars:green_purpur_pillar",
     "extrapillars:red_purpur_pillar",
-    "extrapillars:black_purpur_pillar"
+    "extrapillars:black_purpur_pillar",
+    "extrapillars:test_block"
   ]
 }
