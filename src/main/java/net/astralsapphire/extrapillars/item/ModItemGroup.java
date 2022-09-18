@@ -9,5 +9,5 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
     public static final ItemGroup PILLARS = FabricItemGroupBuilder.build(new Identifier(TutorialMod.MOD_ID, "pillars"),
-            () -> new ItemStack(ModBlocks.WHITE_PURPUR_PILLAR));
+            () -> new ItemStack(ModBlocks.BLOCKS[0].getBlock()));
 }
