@@ -30,7 +30,23 @@ public class ModBlocks {
             new ModBlock(new PillarBlock(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "green_purpur_pillar"),
             new ModBlock(new PillarBlock(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "red_purpur_pillar"),
             new ModBlock(new PillarBlock(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "black_purpur_pillar"),
-            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "test_block")
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "white_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "orange_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "magenta_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "light_blue_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "yellow_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "lime_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "pink_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "gray_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "light_gray_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "cyan_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "purple_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "blue_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "brown_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "green_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "red_polished_block"),
+            new ModBlock(new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).requiresTool()), "black_polished_block")
+
     };
 
     public static void registerModBlocks() {

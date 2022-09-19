@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "extrapillars:block/magenta_polished_block"
+  }
+}

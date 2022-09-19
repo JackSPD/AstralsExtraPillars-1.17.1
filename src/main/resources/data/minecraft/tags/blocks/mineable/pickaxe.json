@@ -340,6 +340,22 @@
     "extrapillars:brown_purpur_pillar",
     "extrapillars:green_purpur_pillar",
     "extrapillars:red_purpur_pillar",
-    "extrapillars:black_purpur_pillar"
+    "extrapillars:black_purpur_pillar",
+    "extrapillars:white_polished_block",
+    "extrapillars:orange_polished_block",
+    "extrapillars:magenta_polished_block",
+    "extrapillars:light_blue_polished_block",
+    "extrapillars:yellow_polished_block",
+    "extrapillars:lime_polished_block",
+    "extrapillars:pink_polished_block",
+    "extrapillars:gray_polished_block",
+    "extrapillars:light_gray_polished_block",
+    "extrapillars:cyan_polished_block",
+    "extrapillars:purple_polished_block",
+    "extrapillars:blue_polished_block",
+    "extrapillars:brown_polished_block",
+    "extrapillars:green_polished_block",
+    "extrapillars:red_polished_block",
+    "extrapillars:black_polished_block"
   ]
 }

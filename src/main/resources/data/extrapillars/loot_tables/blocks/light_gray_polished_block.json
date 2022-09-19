@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "extrapillars:test_block"
+          "name": "extrapillars:light_gray_polished_block"
         }
       ]
     }
